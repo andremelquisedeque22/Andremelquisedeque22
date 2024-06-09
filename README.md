@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🖤 👋
 
-<!--
-**andremelquisedeque22/Andremelquisedeque22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é André Melquisedeque
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Ultilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo📪
+
+andre-melqui.ribeiro@hotmail.com
+
+@andre-melqui.ribeiro
+
+![](https://media.tenor.com/f5REMVv9MlUAAAAM/hulk-smart-hulk.gif)
